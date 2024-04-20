@@ -61,7 +61,6 @@ public class Main {
                                 modelo = input.nextLine();
                                 System.out.print(" - Descripcion: ");
                                 descripcion = input.nextLine();
-                                input.nextLine();
                                 System.out.print(" - Camara: ");
                                 camara = input.nextFloat();
                                 System.out.print(" - Bateria: ");
